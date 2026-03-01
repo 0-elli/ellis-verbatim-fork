@@ -1,6 +1,9 @@
 
 ## Elli's Notes
-Hi, I created a version of Verbatim Flow that removes its hardcoded Aff, Neg, and Cross-Examination sheets. Due to Excel's limitations, I decided to code a new program from scratch that makes organizing flow sheets much easier, using the Electron framework built on TypeScript, React, and Zustand. As of now, nothing's in this fork, and I'm privately working on the program. Feel free to ask me any questions if you're interested!
+
+Hi, I modified Verbatim Flow to call from hidden template sheets instead of using hardcoded values for the Aff, Neg, and Cross-Ex templates (basically, I wanted to introduce more customization).
+
+Due to Excel's limitations, I decided to code a new program from scratch that makes organizing flow sheets much easier, using the Electron framework built on TypeScript, React, and Zustand. As of now, nothing's in this fork, and I'm privately working on the program. Feel free to ask me any questions if you're interested!
 
 # Verbatim
 
